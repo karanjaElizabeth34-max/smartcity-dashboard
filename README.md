@@ -54,30 +54,7 @@ Cities often struggle with fragmented systems for reporting and tracking civic i
    git clone https://github.com/KaranjaElizabeth34-max/smart-city-dashboard.git
    cd smart-city-dashboard
    # Backend
-#Backend   
-cd backend
-npm install
 
-# Frontend (open a new terminal)
-cd frontend
-npm install
-
-PORT=5000
-MONGO_URI=mongodb://localhost:27017/smartcity
-JWT_SECRET=your_super_secret_key_here
-
-# Start MongoDB (if running locally)
-mongod
-
-# Backend (in one terminal)
-cd backend
-npm run dev
-
-# Frontend (in another terminal)
-cd frontend
-npm run dev
-
-Open your browser at http://localhost:3000
 Usage
 Use the Home tab to see the overview
 Click Report Issue to submit new complaints
