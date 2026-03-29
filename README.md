@@ -51,9 +51,10 @@ Cities often struggle with fragmented systems for reporting and tracking civic i
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/KaranjaElizabeth34/smartcity-dashboard.git
-   cd smartcity-dashboard
+   git clone https://github.com/KaranjaElizabeth34-max/smart-city-dashboard.git
+   cd smart-city-dashboard
    # Backend
+#Backend   
 cd backend
 npm install
 
@@ -102,3 +103,15 @@ Fully mobile-responsive improvements
 
 Made for smarter, more responsive cities.
 If you face any issues during setup, feel free to open an issue!
+
+---
+
+### Important:
+- I changed the clone URL to `KaranjaElizabeth34-max` and `smart-city-dashboard` (with hyphen) based on your earlier screenshots.  
+  Please **confirm** your exact repository name and tell me if it's `smartcity-dashboard` or `smart-city-dashboard`.
+
+Would you like me to adjust anything before you paste this?
+
+Just reply with:
+- “Paste this” if you want to use it as is, or
+- “Fix the repo name” if the repository name is different.
